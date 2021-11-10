@@ -1,0 +1,2 @@
+D:\vsproject\TCPC_T\Debug\TCPC_T.exe
+D:\vsproject\TCPC_T\Debug\TCPC_T.pdb

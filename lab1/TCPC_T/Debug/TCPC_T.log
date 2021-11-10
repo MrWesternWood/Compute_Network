@@ -1,0 +1,3 @@
+﻿  TCPC_T.cpp
+D:\vsproject\TCPC_T\TCPC_T.cpp(79,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  TCPC_T.vcxproj -> D:\vsproject\TCPC_T\Debug\TCPC_T.exe

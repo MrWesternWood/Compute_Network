@@ -1,0 +1,3 @@
+﻿  TCPS_T.cpp
+D:\vsproject\TCPS_T\TCPS_T.cpp(76,22): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  TCPS_T.vcxproj -> D:\vsproject\TCPS_T\Debug\TCPS_T.exe
